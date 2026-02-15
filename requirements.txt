@@ -1,0 +1,12 @@
+# Build Requirements
+gcc
+make
+
+# System Dependencies
+libc6-dev
+linux-headers-$(uname -r)
+inotify-tools (optional, for CLI testing)
+
+# Operational
+/tmp directory access (for logging)
+Recursive read access to /home/kali (standard user permissions)
