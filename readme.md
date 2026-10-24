@@ -43,5 +43,4 @@ Launch the optimizer:
 3. **Predict**: When requested, the tool scans the history to find the "hottest" file.
 4. **Prefetch**: The predicted file is read to ensure it resides in the OS page cache.
 
-## License
-MIT
+
